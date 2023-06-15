@@ -1,0 +1,18 @@
+.home {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: center;
+  }
+  
+  .home h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .home p {
+    margin-bottom: 15px;
+  }
+  
